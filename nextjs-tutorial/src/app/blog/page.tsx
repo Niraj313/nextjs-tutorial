@@ -1,3 +1,3 @@
 export default function Home() {
-    return <h1>Block Page</h1>
+    return <h1>Block Pag</h1>
 }
